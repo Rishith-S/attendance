@@ -4,4 +4,4 @@ Attendance app.
 
 ## Getting Started
 
-Developed this app to check attendace percentage for kmit students
+I have developed this app to check the attendance percentage for KMIT students
